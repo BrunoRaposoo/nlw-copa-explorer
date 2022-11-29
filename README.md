@@ -31,7 +31,9 @@ Projeto desenvolvido com as tecnologias:
 
 ## Projeto
 
-Mostrar o calendário do grupo do Brasil durante a copa do mundo de futebol de 2022
+Mostrar o calendário de jogos do grupo do Brasil durante a copa do mundo de futebol de 2022
+
+Para conferir o projeto [clique aqui](https://nlw-copa-explorer-sandy.vercel.app/).
 
 ## Layout
 
